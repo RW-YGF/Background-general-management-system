@@ -1,0 +1,2 @@
+1：element-ui官网不支持vue3的安装，要安装element-plug
+解决办法：https://blog.csdn.net/xiaoyao_zhy/article/details/125298780
